@@ -48,7 +48,7 @@ const Signup = () => {
       setLoading(false);
     }
   };
-
+//md gafru
   return (
     <div className="min-h-screen flex items-center justify-center bg-gradient-to-br from-blue-50 via-white to-blue-50">
       <div className="max-w-md w-full mx-4">
